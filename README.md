@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Marcos Felipe!
 
-- 📚 Atualmente estudando Análise e Desenvolvimento de Sistemas 
+- 📚 Atualmente estudando Desenvolvimento de Sistemas (Etec) e Análise e Desenvolvimento de Sistemas (Fatec)
 
 <div align="center">
   <a href="https://github.com/felipecruz159">
@@ -14,6 +14,7 @@
   <img align="center" alt="Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
   <img align="center" alt="Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
   <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />        
 </div>
   
   ##
