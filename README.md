@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Marcos Felipe!
 
-- 📚 Atualmente estudando Desenvolvimento de Sistemas (Etec) e Análise e Desenvolvimento de Sistemas (Fatec)
+- 📚 Atualmente estudando Análise e Desenvolvimento de Sistemas (Fatec)
 
 <div align="center">
   <a href="https://github.com/felipecruz159">
