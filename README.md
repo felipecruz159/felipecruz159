@@ -1,5 +1,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=500&color=F79316&width=435&lines=Ol%C3%A1!+Eu+sou+o+Marcos+Felipe!;Tenho+19+anos.;Sou+formado+t%C3%A9cnico+em+DS+na+Etec.;E+estou+cursando+o+3%C2%BA+ADS+na+Fatec." alt="Typing SVG" /></a>
 
+- ✉️felipe.cruz159@hotmail.com
+
 <div align="center">
   <a href="https://github.com/felipecruz159">
   <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api?username=felipecruz159&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
@@ -16,7 +18,7 @@
   <img align="center" alt="C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />      
   <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="MySQL" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg" /> 
-  <img align="center" alt="MySQL" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+  <img align="center" alt="Git" heoght="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
         
 </div>
   
