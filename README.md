@@ -1,7 +1,5 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=500&color=F79316&width=435&lines=Ol%C3%A1!+Eu+sou+o+Marcos+Felipe!;Tenho+19+anos.;Sou+formado+t%C3%A9cnico+em+DS+na+Etec.;E+estou+cursando+o+3%C2%BA+ADS+na+Fatec." alt="Typing SVG" /></a>
 
-- ✉️felipe.cruz159@hotmail.com
-
 <div align="center">
   <a href="https://github.com/felipecruz159">
   <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api?username=felipecruz159&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
@@ -25,5 +23,6 @@
   ##
   
   <div>
-  <a href="https://www.linkedin.com/in/marcos-felipe-cruz-beraldo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+    <a href="https://www.linkedin.com/in/marcos-felipe-cruz-beraldo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+    <a href=mailto:felipe.cruz159@hotmail.com" target="_blank"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
   </div>
