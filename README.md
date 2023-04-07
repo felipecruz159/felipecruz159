@@ -1,15 +1,21 @@
-<div align="center">
+<div >
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=500&color=F79316&width=435&lines=Ol%C3%A1!+Eu+sou+o+Marcos+Felipe!;Tenho+19+anos.;Sou+formado+t%C3%A9cnico+em+DS+na+Etec.;E+estou+cursando+o+3%C2%BA+ADS+na+Fatec." alt="Typing SVG" /></a>
 </div>
-<div align="center">
-  <a href="https://github.com/felipecruz159">
+
+##
+
+<div >
   <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api?username=felipecruz159&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipecruz159&layout=compact&langs_count=7&theme=dark"/>
 </div>
-<br>
+<br> 
+
+  ##
+  
+   Conhecimentos:
 <div style="display: inline_block" align="center">
-  Conhecimentos
-  <div align="center">
+ 
+  <div>
     <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="center" alt="JavaScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
