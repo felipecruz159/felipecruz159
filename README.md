@@ -12,7 +12,7 @@
 
   ##
   
-   Conhecimentos:
+
 <div style="display: inline_block" align="center">
  
   <div>
