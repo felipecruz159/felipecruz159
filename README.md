@@ -1,5 +1,5 @@
 <div >
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=1000&random=false&width=435&lines=Meu+nome+%C3%A9+Marcos+Felipe!;Tenho+20+anos!;Estou+cursando+superior+em+ADS!" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=1000&color=DD1E43&width=435&lines=My+name+is+Marcos+Felipe.;I+am+20+years+old.;Full-Stack+Developer+at+Mind+Group." alt="Typing SVG" /></a>
 </div>
 
 ##
@@ -36,5 +36,5 @@
   
   <div>
     <a href="https://www.linkedin.com/in/marcos-felipe-cruz-beraldo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-    <a href=mailto:felipe.cruz159@hotmail.com" target="_blank"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
+    <a href=mailto:felipe.cruz159@outlook.com" target="_blank"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
   </div>
